@@ -23,7 +23,7 @@ end
 returnArray
 end
 
-
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
 
 def long_planeteer_calls(array) # code an argument here
